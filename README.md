@@ -1,15 +1,15 @@
 # CMakeWxWidgets
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-CMakeWxWidgets is a template wxWidgets C++ application for building with CMake
+CMakeWxWidgets is a template wxWidgets C++ application for building with CMake.
 
 ## What you need
 
 To obtain and build CMake-C-App, make sure that your Linux system has C development and Git related packages installed:
 
-* Debian/Ubuntu: `sudo apt install git gcc g++ gdb make cmake`
-* Fedora: `sudo dnf install git gcc g++ gdb make cmake`
-* openSUSE: `sudo zypper install git gcc gcc-c++ gdb make cmake`
+* Debian/Ubuntu: `sudo apt install git gcc g++ gdb make cmake libwxgtk3.0-gtk3-dev`
+* Fedora: `sudo dnf install git gcc g++ gdb make cmake wxGTK3-devel`
+* openSUSE: `sudo zypper install git gcc gcc-c++ gdb make cmake wxGTK3-devel`
 
 ## Getting the code
 
