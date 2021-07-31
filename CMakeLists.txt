@@ -12,7 +12,7 @@ set(
 )
 
 # Request the required wxWidgets libs.
-find_package(wxWidgets COMPONENTS core base REQUIRED)
+find_package(wxWidgets COMPONENTS core base xrc REQUIRED)
 
 # Include the wxWidgets use file to initialize various settings.
 include(${wxWidgets_USE_FILE})
