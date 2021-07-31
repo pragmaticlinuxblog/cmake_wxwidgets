@@ -3,6 +3,8 @@
 * \brief        Application's main window header file.
 *
 ****************************************************************************************/
+#ifndef MAINWINDOW_H
+#define MAINWINDOW_H
 
 /****************************************************************************************
 * Include files
@@ -19,6 +21,6 @@ public:
   MainWindow(const wxString& title, int width, int height);
 };
 
-
+#endif /* MAINWINDOW_H */
 /*********************************** end of mainwindow.h *******************************/
 

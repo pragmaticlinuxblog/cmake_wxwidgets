@@ -24,6 +24,5 @@ MainWindow::MainWindow(const wxString& title, int width, int height)
   Centre();
 } /*** end of MainWindow ***/
 
-
 /*********************************** end of mainwindow.cpp *****************************/
 

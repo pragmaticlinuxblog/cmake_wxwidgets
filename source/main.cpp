@@ -33,5 +33,4 @@ bool MyApp::OnInit()
   return true;
 } /*** end of OnInit ***/
 
-
 /*********************************** end of main.cpp ***********************************/
