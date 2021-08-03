@@ -1,7 +1,7 @@
 # CMakeWxWidgets
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-CMakeWxWidgets is a template wxWidgets C++ application for building with CMake.
+CMakeWxWidgets is a template wxWidgets C++ application for building with CMake. This repository is also featured on the PragmaticLinux blog in the article about [how to get started with wxWidgets on Linux](https://www.pragmaticlinux.com/2021/08/getting-started-with-wxwidgets-on-linux/).
 
 ## What you need
 
